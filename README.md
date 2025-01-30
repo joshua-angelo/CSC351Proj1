@@ -1,2 +1,2 @@
-# CSC351Proj1
-Joshua Fouch's html project assignment 1 Jan 23, 2025
+# CSC351Project (Team 2)
+Joshua Fouch's html project assignment Jan 23, 2025
